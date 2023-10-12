@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Data Scientist specializing in Machine Learning for trading. I have expertise in Python, data analysis, data engineering and model development from inception to completion. I enjoy working with data to solve problems.
+
 <!--
 **evgmosme/evgmosme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
