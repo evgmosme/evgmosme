@@ -2,6 +2,8 @@
 
 I'm a Data Scientist specializing in Machine Learning for trading. I have expertise in Python, data analysis, data engineering and model development from inception to completion. I enjoy working with data to solve problems.
 
+You can view some of the code I've written on this github
+
 📫 How to reach me: https://www.linkedin.com/in/evgenii-mosikhin/
 
 <!--
